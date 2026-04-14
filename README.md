@@ -93,6 +93,3 @@ python run.py
 - The agent only moves through valid grid cells and never crosses barriers.
 - You can adjust the number of tasks and barriers in each `run.py` file to make the simulation easier or harder.
 
-## License
-
-See the `LICENSE` file for license information.
